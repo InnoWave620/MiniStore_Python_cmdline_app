@@ -1,0 +1,1 @@
+The application must allow a user to list, add, edit and delete products stored in a SQL Server database table called Products (ProductID, Name, Price).
